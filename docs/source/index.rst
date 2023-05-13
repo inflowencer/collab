@@ -15,10 +15,15 @@ Requirements
 | Step                    | Note                                         | Link                                                  |
 +=========================+==============================================+=======================================================+
 | Install WSL2 (Ubuntu)   | This step is only required for Windows users | https://learn.microsoft.com/en-us/windows/wsl/install |
++-------------------------+----------------------------------------------+-------------------------------------------------------+
 | Install Visual Code     | IDE & source control                         | https://code.visualstudio.com                         |
++-------------------------+----------------------------------------------+-------------------------------------------------------+
 | Install docker desktop  | Light-weight virtual machine                 | https://www.docker.com/products/docker-desktop/       |
++-------------------------+----------------------------------------------+-------------------------------------------------------+
 | Create a GitHub account | For GitHub and Gitlab                        | https://github.com                                    |
 +-------------------------+----------------------------------------------+-------------------------------------------------------+
+
+
 
 Now you're reaady to collaborate. To access the repositories for collaboration, you have to:
 
