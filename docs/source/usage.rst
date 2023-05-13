@@ -32,3 +32,4 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+..  youtube:: 8JJ101D3knE
