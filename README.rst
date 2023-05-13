@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Read the Docs Page for Collaborating
+====================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repo contains the source files for building the collaboration Read the Docs Page
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+[https://collab.readthedocs.io/en/latest/](https://collab.readthedocs.io/en/latest/)
